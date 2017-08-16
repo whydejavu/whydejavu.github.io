@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll 搭建静态博客"
+title:  "github+Jekyll搭建静态博客"
 date:   2017-08-16 22:14:54
 categories: jekyll
 tags: jekyll RubyGems mac
@@ -9,7 +9,7 @@ tags: jekyll RubyGems mac
 * content
 {:toc}
 
-一直以来都想搭建一个自己的博客，但是近半年做项目太忙，再加上教研室的网络很坑爹，所以也一直没顾得上。之前用过 WordPress 托管在免费的京东云擎上，但是速度太慢。在知乎上看到一些相关的内容，于是选择了在github上用jekyll搭建博客。
+一直以来都想搭建一个自己的博客，自己直接使用Python Django搭建的博客还没有成型，由于时间关系先采用简单的方式部署，将我在有道云笔记上的笔记慢慢的转移到这个上面来。
 
 
 
