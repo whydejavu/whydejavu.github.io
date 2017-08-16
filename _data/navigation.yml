@@ -1,0 +1,18 @@
+# Site navigation links
+
+- title: 首页
+  url: /
+  excerpt:
+  image:
+
+- title: 云计算
+  url: /cloud/
+
+- title: 人工智能
+  url: /ai/
+
+- title: 移动
+  url: /move/
+
+- title: 装逼工具
+  url: /tools/
