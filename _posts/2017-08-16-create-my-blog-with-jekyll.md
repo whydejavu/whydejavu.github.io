@@ -77,7 +77,6 @@ watch为了检测文件夹内的变化，即修改后不需要重新启动jekyll
 ```
 
 ## 参考文档
-- 相关博客参考
 ```
 http://www.devtalking.com/articles/git-gitHub-markdown-jekyll/
 http://www.jianshu.com/p/88c9e72978b4
@@ -87,7 +86,6 @@ http://cenalulu.github.io/jekyll/choose-a-template-for-your-blog/#toc1
 https://mademistakes.com/work/jekyll-themes/
 
 https://github.com/cenalulu/cenalulu.github.io/blob/master/index.html
-
 
 https://github.com/sunxiaobiu/sunxiaobiu.github.io
 
