@@ -11,6 +11,10 @@ tags: jekyll RubyGems mac
 
 一直以来都想搭建一个自己的博客，自己直接使用Python Django搭建的博客还没有成型，由于时间关系先采用简单的方式部署，将我在有道云笔记上的笔记慢慢的转移到这个上面来。
 
+
+
+
+
 ## 搭建过程
 
 在jekyll的官网上 [http://jekyllrb.com/](http://jekyllrb.com/) 其实已经说得比较明白了，我在这里还是简单的说一下吧。我用的是mac系统。    
