@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: whydejavu
-brief-intro: Front-end Dev Engineer
+title: 梦想还是要有的
+brief-intro: 技术知识记录分享
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://whydejavu.github.io" # the base hostname & protocol for your site
 
