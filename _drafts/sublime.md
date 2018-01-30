@@ -1,3 +1,10 @@
+---
+layout: post
+title:  ""
+data:   2017-08-21 15:25:41
+categories: 
+tags: 
+---
 
 常用快捷键.
 command + shift + p
