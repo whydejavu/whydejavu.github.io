@@ -19,17 +19,17 @@ http://sqoop.apache.org/docs/1.99.3/index.html
 # maven仓库，可以找到各版本的jar包
 https://mvnrepository.com/artifact/org.apache.sqoop/sqoop-client/1.99.2
 ```
+
+
+
+
+
 ## 安装URL汇总
 ```
 # hadoop状态查看
 http://192.168.56.101:50070/dfshealth.html#tab-overview
 http://192.168.56.101:8088/cluster/apps
 ```
-
-
-
-
-
 ## 环境介绍
 
 ```
