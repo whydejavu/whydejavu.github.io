@@ -6,6 +6,8 @@ categories: openstack
 tags: openstack openstack4j 云计算
 ---
 
+* content
+{:toc}
 
 ## 参考资料
 - 官方地址：http://www.openstack4j.com/
