@@ -26,6 +26,10 @@ http://192.168.56.101:50070/dfshealth.html#tab-overview
 http://192.168.56.101:8088/cluster/apps
 ```
 
+
+
+
+
 ## 环境介绍
 
 ```
