@@ -88,7 +88,7 @@ DNS1=114.114.114.114
 
 ### 配置Hosts
 
-```java
+```
 # 编辑hosts文件
 [root@h101 ~]# sudo vi /etc/hosts
 # 在hosts文件后面追加
