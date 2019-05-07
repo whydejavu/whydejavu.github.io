@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "在github上配置图片链接"
-date:   2017-08-16 22:14:54
+date:   2019-05-07 14:41:55
 categories: blog
 tags: blog github
 ---
@@ -28,7 +28,7 @@ tags: blog github
 4. 将图片拷贝到文件夹**blog**
 5. 使用自己项目的引用图片地址
 
-![image](https://github.com/whydejavu/whydejavu.github.io/resource/image/blog/blog-maven-pic.png)
+![image](https://github.com/whydejavu/whydejavu.github.io/resource/image/blog/blog-maven-pic.jpg)
 
 **规则**
 ```bash
