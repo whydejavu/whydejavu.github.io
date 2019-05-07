@@ -29,7 +29,7 @@ tags: blog github
 5. 使用自己项目的引用图片地址
 
 ![image](https://github.com/whydejavu/whydejavu.github.io/resource/image/blog/blog-maven-pic.jpeg)
-
+![image](https://github.com/whydejavu/engineer/raw/master/resource/image/java-ji-chu/jdk-download-list.jpeg)
 **规则**
 ```bash
 # 参考
