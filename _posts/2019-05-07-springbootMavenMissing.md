@@ -110,4 +110,4 @@ Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/csource/fas
 - 不仅仅是包含maven，还包含其他种类的引用方式，如：gradle,sbt等
 https://mvnrepository.com/artifact/org.csource/fastdfs-client-java/1.27-RELEASE
 ```
-![image](http://note.youdao.com/yws/res/11631/6B0595D0CB224F64B8C6CE8C89777BC3)
+![image](https://github.com/whydejavu/whydejavu.github.io/raw/master/resource/image/blog/blog-maven-pic.png)
