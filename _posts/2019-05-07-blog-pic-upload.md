@@ -28,7 +28,7 @@ tags: blog github
 4. 将图片拷贝到文件夹**blog**
 5. 使用自己项目的引用图片地址
 
-![image](https://github.com/whydejavu/whydejavu.github.io/resource/image/blog/blog-maven-pic.jpg)
+![image](https://github.com/whydejavu/whydejavu.github.io/resource/image/blog/blog-maven-pic.jpeg)
 
 **规则**
 ```bash
